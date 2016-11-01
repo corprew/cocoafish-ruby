@@ -1,3 +1,5 @@
+_READ THIS_:  This is a version of the cocoafish API, which was a platform API created back when that sort of thing was trendy for startups to do.  This is a modified version used by a startup called Linea, which was a photosharing startup that has since gone defunct.  _Please do not use this code_ unless you are trying to use something derived from Linea's codebase.  It works with an extremely out of date version of MongoDB and has several known issues that are fixed in tysontate's version of this repo.  Similarly, it only works with out-of-date versions of ruby and rails.  
+
 # Cocoafish Ruby Client
 
 This is a Ruby client for the Cocoafish server backand that can be used in your Ruby scripts and Ruby on Rails apps. For full documentation about the API methods that can be used through this gem, see the [Cocoafish REST API documentation](http://cocoafish.com/docs/rest). This has been developed and tested with Ruby 1.8.7/1.9.2 and Rails 3.0.5. Earlier versions of Ruby or Rails may not work.
