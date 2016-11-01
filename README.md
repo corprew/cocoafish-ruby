@@ -1,4 +1,4 @@
-_READ THIS_:  This is a version of the cocoafish API, which was a platform API created back when that sort of thing was trendy for startups to do.  This is a modified version used by a startup called Linea, which was a photosharing startup that has since gone defunct.  _Please do not use this code_ unless you are trying to use something derived from Linea's codebase.  It works with an extremely out of date version of MongoDB and has several known issues that are fixed in tysontate's version of this repo.  Similarly, it only works with out-of-date versions of ruby and rails.  
+_READ THIS_:  This is a version of the cocoafish API, which was a platform API created back when that sort of thing was trendy for startups to do.  This is a modified version used by a startup called Linea, which was a photosharing startup that has since gone defunct.  _Please do not use this code_ unless you are trying to use something derived from Linea's codebase.  It works with an out of date version of MongoDB and has several known incompatibilities with the mainline cocoafish, which is also defunct.  It is only kept around for historical purposes.
 
 # Cocoafish Ruby Client
 
